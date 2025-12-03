@@ -12,9 +12,8 @@
 
 Artweb es una aplicación web desarrollada con Laravel 10 (backend) y Vue 3 + Inertia.js (frontend). Implementa autenticación, roles, un panel de usuario, un panel administrativo, validaciones en el servidor y un sistema completo de CRUD basado en MVC. Este proyecto constituye la base inicial para una futura plataforma artística con mayores funcionalidades.
 
-#Video demostrativo
+#Video Examen
 
-https://youtu.be/ZB-MVubuQiY
 
 #Descripción del proyecto
 
